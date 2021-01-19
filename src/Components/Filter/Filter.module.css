@@ -1,0 +1,11 @@
+.filter {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 15px;
+}
+.label {
+  margin-bottom: 5px;
+}
+.formInput {
+  background-color: lightgray;
+}

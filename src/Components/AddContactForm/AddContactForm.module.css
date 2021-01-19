@@ -1,0 +1,24 @@
+.contactsForm {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  border: 1px solid black;
+}
+
+.label {
+  margin-bottom: 5px;
+}
+
+.formInput {
+  margin-bottom: 10px;
+  background-color: lightgray;
+}
+
+.addButton {
+  background-color: rgb(55, 235, 55);
+  border-radius: 10px;
+  width: 200px;
+  padding: 5px 10px;
+  align-self: center;
+  cursor: pointer;
+}
