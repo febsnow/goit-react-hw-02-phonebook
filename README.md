@@ -1,3 +1,2 @@
-# goit-react-hw-02-state-forms
-
+# goit-react-hw-02-phonebook
 Состояния и формы.
